@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/mariosant/react-wizard/compare/v0.0.2...v0.0.3) (2019-05-20)
+
+
+### Bug Fixes
+
+* remove redundant tests ([c9199be](https://github.com/mariosant/react-wizard/commit/c9199be))
+
+
+### Tests
+
+* add missing tests ([50e6bea](https://github.com/mariosant/react-wizard/commit/50e6bea))
+
+
+
 ### [0.0.2](///compare/v0.0.1...v0.0.2) (2019-05-20)
 
 
