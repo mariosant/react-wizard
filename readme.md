@@ -3,7 +3,7 @@
 > Multi step wizards in React - easy and painless.
 
 [![NPM version](https://img.shields.io/npm/v/@mariosant/react-wizard.svg)](https://www.npmjs.com/package/@mariosant/react-wizard)
-[![Build Status](https://travis-ci.org/mariosant/react-wizard.svg?branch=master)](https://travis-ci.org/mariosant/react-wizard)
+[![CircleCI](https://circleci.com/gh/mariosant/react-wizard/tree/master.svg?style=svg)](https://circleci.com/gh/mariosant/react-wizard/tree/master)
 
 ## Installation
 
